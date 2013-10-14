@@ -1,0 +1,1 @@
+A very simple project that should allow the participants of the ATDD workshop at ABE2013 to test their RUBY installation.
